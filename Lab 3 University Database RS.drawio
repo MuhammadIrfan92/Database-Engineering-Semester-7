@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T18:22:02.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="1rg-aHp1ct7dNVw9-LEF" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T18:22:08.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36 Edg/86.0.622.63" etag="5XdhmB7MkN0kdxNfxU_P" version="13.8.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1663" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="GlmnWw2w5G-Uxig3AObl-50" value="Employee_Ssn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="580" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GlmnWw2w5G-Uxig3AObl-51" value="Student&amp;nbsp; Assistent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GlmnWw2w5G-Uxig3AObl-51" value="&lt;b&gt;Student&amp;nbsp; Assistent&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="680" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GlmnWw2w5G-Uxig3AObl-52" value="&lt;b&gt;Faculty&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
