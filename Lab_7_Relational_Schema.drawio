@@ -1,1 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T16:13:40.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" version="14.0.1" etag="EmjF1UrAE8k6LsKOe3Ai" type="github"><diagram id="VBYud7IvUnq1WB65MO8T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-13T16:28:13.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="fHA-tuZloteTOwjRo5vL" version="14.0.1" type="github">
+  <diagram id="VBYud7IvUnq1WB65MO8T" name="Page-1">
+    <mxGraphModel dx="910" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CdSLZS1njs92kIyg_cnn-17" value="hotelno" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-18" value="hotelname" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-22" value="city" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-23" value="roomno" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdSLZS1njs92kIyg_cnn-24" target="CdSLZS1njs92kIyg_cnn-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-24" value="hotelno" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-25" value="type" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-26" value="guestno" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-27" value="guestname" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-28" value="guestaddress" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-29" value="price" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CdSLZS1njs92kIyg_cnn-30" target="CdSLZS1njs92kIyg_cnn-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="660" />
+              <mxPoint x="70" y="450" />
+              <mxPoint x="270" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-30" value="hotelno" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.597;entryY=1.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CdSLZS1njs92kIyg_cnn-31" target="CdSLZS1njs92kIyg_cnn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-31" value="guestno" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-32" value="datefrom" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-33" value="dateto" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CdSLZS1njs92kIyg_cnn-34" target="CdSLZS1njs92kIyg_cnn-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="430" />
+              <mxPoint x="170" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-34" value="roomno" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="210" as="sourcePoint" />
+            <mxPoint x="205" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="350" as="sourcePoint" />
+            <mxPoint x="205" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="350" as="sourcePoint" />
+            <mxPoint x="305" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="510" as="sourcePoint" />
+            <mxPoint x="205" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="670" as="sourcePoint" />
+            <mxPoint x="205" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="670" as="sourcePoint" />
+            <mxPoint x="300" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="670" as="sourcePoint" />
+            <mxPoint x="400" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-52" value="&lt;h1&gt;Hotel&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-53" value="&lt;h1&gt;Room&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="280" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-54" value="&lt;h1&gt;Guest&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="450" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdSLZS1njs92kIyg_cnn-55" value="&lt;h1&gt;Table Booking&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="195" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
